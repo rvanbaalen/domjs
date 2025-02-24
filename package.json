@@ -1,6 +1,6 @@
 {
   "name": "@rvanbaalen/domjs",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Basic DOM manipulation functions in vanilla javascript",
   "main": "index.js",
   "scripts": {
