@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/rvanbaalen/domjs/compare/domjs-v1.1.0...domjs-v1.2.0) (2025-02-24)
+
+
+### Features
+
+* **CI:** add release-please ([175aa4c](https://github.com/rvanbaalen/domjs/commit/175aa4c74149579d90f9c930f9fa490427dfa517))
+
 ## [1.1.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.3...runner-manager-v1.1.0) (2025-02-24)
 
 
