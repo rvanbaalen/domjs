@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/rvanbaalen/domjs/compare/domjs-v1.2.0...domjs-v1.2.1) (2025-02-24)
+
+
+### Bug Fixes
+
+* define nodejs version ([bdb8e94](https://github.com/rvanbaalen/domjs/commit/bdb8e94dbf7642113f6cdce9cfad684a375ed27f))
+
 ## [1.2.0](https://github.com/rvanbaalen/domjs/compare/domjs-v1.1.0...domjs-v1.2.0) (2025-02-24)
 
 
