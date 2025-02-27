@@ -1,6 +1,9 @@
 [&larr; See my other Open Source projects](https://robinvanbaalen.nl)
 
 # @rvanbaalen/domjs
+![NPM Downloads](https://img.shields.io/npm/d18m/%40rvanbaalen%2Fdomjs)
+![GitHub License](https://img.shields.io/github/license/rvanbaalen/domjs)
+![NPM Version](https://img.shields.io/npm/v/%40rvanbaalen%2Fdomjs)
 
 Zero-dependency core DOM manipulation utilities in vanilla JavaScript.
 
