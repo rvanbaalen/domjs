@@ -9,7 +9,7 @@ Zero-dependency core DOM manipulation utilities in vanilla JavaScript.
 
 ## Description
 
-@rvanbaalen/domjs is a lightweight library that provides essential DOM manipulation functions without any additional dependencies. It is designed to be simple and minimal, making common DOM operations both intuitive and efficient.
+`@rvanbaalen/domjs` is a lightweight library that provides essential DOM manipulation functions without any additional dependencies. It is designed to be simple and minimal, making common DOM operations both intuitive and efficient.
 
 ## Installation
 
