@@ -1,3 +1,5 @@
+[&larr; See my other Open Source projects](https://robinvanbaalen.nl)
+
 # @rvanbaalen/domjs
 
 Zero-dependency core DOM manipulation utilities in vanilla JavaScript.
