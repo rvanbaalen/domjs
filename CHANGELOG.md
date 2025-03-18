@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/rvanbaalen/domjs/compare/domjs-v1.2.1...domjs-v2.0.0) (2025-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* add initial project setup with Tailwind CSS and Vite integration
+
+### Features
+
+* add initial project setup with Tailwind CSS and Vite integration ([7945a70](https://github.com/rvanbaalen/domjs/commit/7945a70d88ba583b841266cb1cb556be097298e6))
+
+
+### Bug Fixes
+
+* specify Node.js engine version in package-lock.json ([2630dae](https://github.com/rvanbaalen/domjs/commit/2630dae479edf770a9882158e9417096bc339a49))
+
 ## [1.2.1](https://github.com/rvanbaalen/domjs/compare/domjs-v1.2.0...domjs-v1.2.1) (2025-02-24)
 
 
