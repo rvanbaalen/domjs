@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.0...domjs-v2.0.1) (2025-03-18)
+
+
+### Bug Fixes
+
+* enhance release-please configuration with additional permissions and outputs ([3ed9261](https://github.com/rvanbaalen/domjs/commit/3ed92610dc4a888eedafe0d2c96aaedf335a1652))
+
 ## [2.0.0](https://github.com/rvanbaalen/domjs/compare/domjs-v1.2.1...domjs-v2.0.0) (2025-03-18)
 
 
