@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.1...domjs-v2.0.2) (2025-03-18)
+
+
+### Bug Fixes
+
+* update base URL in Vite configuration for proper deployment ([12699fd](https://github.com/rvanbaalen/domjs/commit/12699fd3665f15f3af23af34e72c4c01b0db51e6))
+
 ## [2.0.1](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.0...domjs-v2.0.1) (2025-03-18)
 
 
