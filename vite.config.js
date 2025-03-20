@@ -11,7 +11,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        // otherName: resolve(__dirname, 'src/other-file.html'), // If you're publishing multiple pages
       },
     },
   },
