@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.2...domjs-v2.1.0) (2025-03-20)
+
+
+### Features
+
+* add step to render README.md to HTML in release workflow ([2ed8d46](https://github.com/rvanbaalen/domjs/commit/2ed8d4657a3dcd30ee99e7a7eb4845a675d3f8c9))
+
 ## [2.0.2](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.1...domjs-v2.0.2) (2025-03-18)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@rvanbaalen/domjs",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "type": "module",
   "description": "Zero-dependency core DOM manipulation utilities in vanilla JavaScript.",
   "main": "index.js",
