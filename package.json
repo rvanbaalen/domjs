@@ -2,7 +2,7 @@
   "name": "@rvanbaalen/domjs",
   "version": "2.0.2",
   "type": "module",
-  "description": "Basic DOM manipulation functions in vanilla javascript",
+  "description": "Zero-dependency core DOM manipulation utilities in vanilla JavaScript.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
