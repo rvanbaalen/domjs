@@ -104,7 +104,7 @@ domAfter({ context: element, tpl: htmlSnippet });
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please [open an issue](https://github.com/rvanbaalen/domjs/issues/new) or [submit a pull request](https://github.com/rvanbaalen/domjs/pulls).
 
 ## License
 
