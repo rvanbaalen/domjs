@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/rvanbaalen/domjs/compare/domjs-v2.1.0...domjs-v2.2.0) (2025-03-28)
+
+
+### Features
+
+* $ now uses getElementById if the selector is only an id, added doc blocks for type hinting. ([b15f6df](https://github.com/rvanbaalen/domjs/commit/b15f6df2a7549adb73608c8068b94d73adf1d02a))
+
 ## [2.1.0](https://github.com/rvanbaalen/domjs/compare/domjs-v2.0.2...domjs-v2.1.0) (2025-03-20)
 
 
