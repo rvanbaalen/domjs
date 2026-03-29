@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.2](https://github.com/rvanbaalen/domjs/compare/domjs-v2.2.1...domjs-v2.2.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* include LICENSE file in build output to resolve 404 ([2340d91](https://github.com/rvanbaalen/domjs/commit/2340d91603493fd0558b2f090d5fb2cc7a91199e))
+
 ## [2.2.1](https://github.com/rvanbaalen/domjs/compare/domjs-v2.2.0...domjs-v2.2.1) (2026-03-29)
 
 
