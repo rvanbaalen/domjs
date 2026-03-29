@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/rvanbaalen/domjs/compare/domjs-v2.2.0...domjs-v2.2.1) (2026-03-29)
+
+
+### Bug Fixes
+
+* update base path for custom domain ([c4cee31](https://github.com/rvanbaalen/domjs/commit/c4cee31ae1d39903ce29659e9c70b4eea5cb617f))
+
 ## [2.2.0](https://github.com/rvanbaalen/domjs/compare/domjs-v2.1.0...domjs-v2.2.0) (2025-03-28)
 
 
